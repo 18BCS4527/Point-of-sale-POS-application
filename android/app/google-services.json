@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927614959496",
+    "project_id": "diatus-pos",
+    "storage_bucket": "diatus-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927614959496:android:047b3deb96ed3ac688043d",
+        "android_client_info": {
+          "package_name": "com.atuskart.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927614959496-8uootnntgvhhukueoatjihlo5lmgekpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb4V0njMRFy6NRIocczgIO44QfSd3sG5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927614959496-8uootnntgvhhukueoatjihlo5lmgekpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
